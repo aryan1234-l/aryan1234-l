@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=aryan1234-l&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76910416%3Fu%3Ddfdce9a00559383fb613b977489c3f26b786f2ad%26v%3D4" alt="aryan1234-l hero visual" />
 </p>
 
-**Aryan Gupta** · Frontend or full-stack engineer
+**Aryan Gupta** · full-stack engineer
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = full-stack engineer
 LOCATION    = remote
 PUBLIC_REPOS = 23
 COMMUNITY   = 0 followers</code></pre>
