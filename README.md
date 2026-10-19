@@ -51,7 +51,3 @@ Programming enthusiast from National Institute of Technology, Hamirpur.
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=aryan1234-l&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76910416%3Fu%3Ddfdce9a00559383fb613b977489c3f26b786f2ad%26v%3D4" alt="aryan1234-l social visual" />
 </p>
-
-<a href="https://github.com/aryan1234-l">GitHub</a>
-
-<p align="center"><sub>Aryan Gupta · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
